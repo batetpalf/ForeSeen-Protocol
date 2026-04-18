@@ -9,6 +9,14 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/status-MVP-black" alt="Status: MVP" />
+  <img src="https://img.shields.io/badge/stack-Next.js%2015-111111" alt="Next.js 15" />
+  <img src="https://img.shields.io/badge/language-TypeScript-3178c6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/network-Solana-14f195" alt="Solana" />
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License" />
+</p>
+
+<p align="center">
   <a href="https://www.fore.lat">Website</a> |
   <a href="https://x.com/foreprotocol">X / Twitter</a> |
   <a href="https://github.com/batetpalf/ForeSeen-Protocol.git">GitHub Repository</a>
@@ -53,6 +61,7 @@ The current implementation is intentionally front-end first. It provides a reali
 - [`CHANGELOG.md`](./CHANGELOG.md): notable repository changes
 - [`CONTRIBUTING.md`](./CONTRIBUTING.md): contribution expectations and workflow
 - [`SECURITY.md`](./SECURITY.md): security reporting and current MVP limitations
+- [`LICENSE`](./LICENSE): MIT license for the repository
 
 ## Project Highlights
 
@@ -456,4 +465,4 @@ Users can follow the project on X at [@foreprotocol](https://x.com/foreprotocol)
 
 ## License
 
-No license file has been added yet. Add a project license before public open-source distribution if required.
+This repository is licensed under the [MIT License](./LICENSE).
