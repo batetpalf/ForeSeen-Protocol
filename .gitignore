@@ -12,3 +12,4 @@ yarn-error.log*
 pnpm-debug.log*
 *.tsbuildinfo
 fore-*.png
+!public/fore-logo.png
