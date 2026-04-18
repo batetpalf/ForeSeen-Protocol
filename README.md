@@ -18,8 +18,7 @@
 
 <p align="center">
   <a href="https://www.fore.lat">Website</a> |
-  <a href="https://x.com/foreprotocol">X / Twitter</a> |
-  <a href="https://github.com/batetpalf/ForeSeen-Protocol.git">GitHub Repository</a>
+  <a href="https://x.com/foreprotocol">X / Twitter</a>
 </p>
 
 <p align="center">
@@ -53,7 +52,6 @@ The current implementation is intentionally front-end first. It provides a reali
 
 - **Website:** [https://www.fore.lat](https://www.fore.lat)
 - **X / Twitter:** [https://x.com/foreprotocol](https://x.com/foreprotocol)
-- **GitHub Repository:** [https://github.com/batetpalf/ForeSeen-Protocol.git](https://github.com/batetpalf/ForeSeen-Protocol.git)
 
 ## Repository Documents
 
@@ -443,7 +441,7 @@ Yes. The project is structured as a GitHub-ready MVP repository and has already 
 
 ### Where can users follow the project?
 
-Users can follow the project on X at [@foreprotocol](https://x.com/foreprotocol), visit the website at [www.fore.lat](https://www.fore.lat), and track repository changes on GitHub.
+Users can follow the project on X at [@foreprotocol](https://x.com/foreprotocol) and visit the website at [www.fore.lat](https://www.fore.lat).
 
 ## Known Limitations
 
